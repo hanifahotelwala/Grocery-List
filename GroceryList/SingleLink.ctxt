@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=groceryItem\ id
+comment0.target=SingleLink(SingleItem,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Link\n
+comment1.params=
+comment1.target=void\ displayLink()
+comment1.text=\n\ Displays\ the\ link\ of\ just\ the\ name\ of\ the\ grocery\ item.\ \n
+comment2.params=
+comment2.target=void\ displayFullInfo()
+comment2.text=\n\ Displays\ the\ name\ of\ the\ grocery\ item\ and\ the\ quantity.\ \n\ \n
+numComments=3

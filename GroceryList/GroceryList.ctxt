@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GroceryList()
+comment0.text=\n\ Constructor\ for\ class\ LinkList\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment1.text=\n\ Returns\ true\ if\ the\ linked\ list\ is\ empty\ \n
+comment2.params=key
+comment2.target=SingleLink\ find(int)
+comment2.text=\n\ Finds\ the\ link\ with\ the\ matching\ key\n
+comment3.params=key\ list\ quantity
+comment3.target=void\ checkedItem(int,\ GroceryList,\ int)
+comment3.text=\n\ 'checks'\ an\ item\ to\ be\ placed\ inside\ a\ different\ grocery\ list.\ \n
+comment4.params=groceryItem
+comment4.target=void\ insertFirst(SingleItem)
+comment4.text=\n\ Creates\ a\ new\ link\ and\ connects\ links\ together\ \n
+comment5.params=key
+comment5.target=SingleLink\ removeFirst(int)
+comment5.text=\n\ Removes\ a\ link\n
+comment6.params=
+comment6.target=void\ displayList()
+comment6.text=\n\ Displays\ the\ current\ grocery\ list\n
+comment7.params=
+comment7.target=void\ displayFullList()
+comment7.text=\n\ Displays\ the\ full\ grocery\ list,\ includes\ checked\ items\n
+numComments=8
